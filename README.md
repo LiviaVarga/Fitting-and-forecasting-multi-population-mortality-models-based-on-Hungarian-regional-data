@@ -1,1 +1,1 @@
-This repository is the online appendix to the paper 'Fitting and forecasting multi-population mortality models based on Hungarian regional data'.
+This repository is the online appendix to the paper 'Fitting and forecasting multi-population mortality models based on Hungarian regional data'. I am grateful to the Cooperative Doctoral Programme of the Ministry of Culture and Innovation financed by the National Research, Development and Innovation Fund.
